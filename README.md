@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaurabPoudel
 - 👀 I’m interested in web development, machine learning and cyber security.
-- 🌱 I’m currently learning web development and dsa in c++ programming.
+- 🌱 I’m currently learning web development and dsa in Java .
 
 <!---
 SaurabPoudel/SaurabPoudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
