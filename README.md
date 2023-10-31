@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [go-sahakari](https://github.com/SaurabPoudel/go-sahakari)
 
-- 🌱 I’m currently learning **Nextjs DSA and some backend fundamentals**
+- 🌱 I’m currently learning **Nextjs, DSA and some backend fundamentals**
 
 - 💬 Ask me about **reactjs**
 
