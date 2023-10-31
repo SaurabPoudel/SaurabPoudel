@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [go-sahakari](https://github.com/SaurabPoudel/go-sahakari)
 
-- 🌱 I’m currently learning **Angular, DSA and some backend fundamentals**
+- 🌱 I’m currently learning **Nextjs DSA and some backend fundamentals**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **reactjs**
 
 - 📫 How to reach me **poudelsaurab20@gmail.com**
 
