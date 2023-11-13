@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs, DSA and some backend fundamentals**
 
-- 💬 Ask me about **reactjs**
+- ♟️ Play chess with me <a href="https://lichess.org/@/SaurabPoudel20">Lichess</a>
 
 - 📫 How to reach me **poudelsaurab20@gmail.com**
 
