@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabpoudel&label=Profile%20views&color=0e75b6&style=flat" alt="saurabpoudel" /> </p>
 
 
-- 🌱 I’m currently learning **Nextjs, DSA and some backend fundamentals**
+- 🌱 I’m currently learning **Nextjs, trpc and tailwind**
 
 - ♟️ Play chess with me <a href="https://lichess.org/@/SaurabPoudel20">Lichess</a>
 
