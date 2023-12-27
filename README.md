@@ -8,7 +8,6 @@
 
 - ♟️ Play chess with me <a href="https://lichess.org/@/SaurabPoudel20">Lichess</a>
 - checkout my blog - <a href="https://saurabblog.vercel.app/">Blog </a>
-- 📫 How to reach me **poudelsaurab20@gmail.com**
 - Learn more about me - <a href="https://saurabpoudel.vercel.app"> Portfolio website </a>
 
 ### Blogs posts
