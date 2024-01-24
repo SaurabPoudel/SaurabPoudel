@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **poudelsaurab20@gmail.com**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
