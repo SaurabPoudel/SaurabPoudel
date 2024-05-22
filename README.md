@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/saurabpoudel07" target="blank"><img src="https://img.shields.io/twitter/follow/saurabpoudel07?logo=twitter&style=for-the-badge" alt="saurabpoudel07" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, data structure and algorithms**
-
 - 📝 I regularly write articles on [saurabblog.vercel.app](saurabblog.vercel.app)
 
 - 💬 Ask me about **react**
