@@ -7,7 +7,6 @@
 
 - 📝 I regularly write articles on [saurabblog.vercel.app](https://saurabblog.vercel.app)
 
-- 💬 Ask me about **react**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
