@@ -2,7 +2,7 @@
 
 Interested in Web dev, AI and Neural Networks and Mathematics
 
-- languages: python, typescript, golang, C
+- languages: C, golang, rust, python, typescript
 - currently studying about Fourier transform and signals
 
 
