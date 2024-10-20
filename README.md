@@ -1,4 +1,3 @@
-# Saurab Poudel
 
 Interested in Web dev, AI and Neural Networks and Mathematics
 
