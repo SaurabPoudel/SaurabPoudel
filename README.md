@@ -1,5 +1,5 @@
 
-Interested in Web dev, AI and Neural Networks and Mathematics
+Interested in Web dev, AI and Mathematics
 
 - languages: C, golang, rust, python, typescript
 - currently exploring quantum information
