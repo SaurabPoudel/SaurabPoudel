@@ -1,5 +1,5 @@
 
-Interested in Web dev, AI and Mathematics
+Interested in signal and telecommunication.
 
 - languages: C, golang, rust, python, typescript
 - website: https://www.saurabpoudel.tech/ || https://saurabpoudel.vercel.app/
