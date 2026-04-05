@@ -1,6 +1,5 @@
 # Hi, I'm Saurab 👋
 ### 🛠 System Architect & Full-Stack Engineer
-https://saurabpoudel.me/
 I build high-performance distributed systems and modern web architectures. My work revolves around the intersection of low-level systems programming and high-level application logic.
 - 🔭 **Current Focus:** Time aware chess evaluation system.
 - 🦀 **Systems:** Writing performance-critical services in **Rust** and **Go**.
